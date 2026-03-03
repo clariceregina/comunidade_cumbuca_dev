@@ -10,7 +10,7 @@ O gerenciamento das contas é realizado através do ISPConfig.
 
 O acesso ao painel administrativo pode ser feito utilizando as credenciais disponíveis no 1Password, armazenadas no cofre Engenharia sob o nome `web admin panel`.
 
-Acesse o painel em <https://isp.umbahost.com.br:8080>.
+Acesse o painel em <https://isp.umbahost.com.br:2088/>.
 
 Após a autenticação, todas as operações relacionadas aos emails institucionais poderão ser realizadas pela interface.
 

@@ -95,7 +95,7 @@ O painel permite:
 O ISPConfig não transporta mensagens. Ele apenas administra o sistema e escreve configurações para o
 servidor.
 
-O endereço do painel administrativo da Cumbuca Dev é: <https://isp.umbahost.com.br:8080>
+O endereço do painel administrativo da Cumbuca Dev é: <https://isp.umbahost.com.br:2088/>
 
 _Caso seja necessário acessar o painel e não possua permissão, uma issue direcionada ao_
 _Núcleo Infra deve ser aberta em: <https://github.com/cumbucadev/comunidade/issues>._
